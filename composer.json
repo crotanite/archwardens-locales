@@ -1,0 +1,6 @@
+{
+    "name": "archwardens/locales",
+    "require": {
+        "php": "^8.0.2"
+    }
+}
